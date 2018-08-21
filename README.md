@@ -20,5 +20,5 @@
 
 
 
-![Image]("https://github.com/apknet/SuperSpider/blob/master/screenshots/Screenshot%20from%202018-08-20%2019-35-01.png")
+![Image](https://github.com/apknet/SuperSpider/blob/master/screenshots/Screenshot%20from%202018-08-20%2019-35-01.png)
 
