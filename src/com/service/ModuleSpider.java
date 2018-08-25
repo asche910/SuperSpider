@@ -38,7 +38,7 @@ public class ModuleSpider {
             for (String key: moduleList) {
                 //  每个Module爬取10页内容的文章
                 System.out.println((moduleList.indexOf(key) + 1) + "." + key);
-                for (int page = 1; page < 1; page++) {
+                for (int page = 1; page < 11; page++) {
                     String moduleUrl = String.format("https://www.jianshu.com/c/%s?order_by=top&page=%d", key, page);
 
                     List<String> articleList = getArticleList(moduleUrl);
